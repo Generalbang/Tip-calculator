@@ -1,0 +1,92 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(172, 21, 159);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: burlywood;
+    font-family: 'Inconsolata', monospace;
+}
+.container{
+    background-color: blueviolet;
+    width: 250px;
+    height: 450px;
+    border-radius: 15px;
+    padding: 20px;
+    font-family: 'Inconsolata', monospace;
+}
+.billy{
+    padding-top: 35px;
+}
+.billy input{
+    border: none;
+    outline: none;
+    padding: 0%;
+}
+.billy div{
+    background-color: white;
+    border-radius: 8px;
+    padding: 5px;
+    
+}
+.people-person-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+    font-family: 'Inconsolata', monospace;
+
+}
+.people-person-container button{
+    background-color: tomato;
+    border: 2px tomato solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.reset{
+    display: none;
+}
